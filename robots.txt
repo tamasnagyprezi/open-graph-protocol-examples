@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://examples.opengraphprotocol.us/sitemap.xml
+Sitemap: https://github.com/tamasnagyprezi/open-graph-protocol-examples/sitemap.xml
